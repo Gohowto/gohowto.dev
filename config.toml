@@ -2,3 +2,9 @@ baseURL = 'https://gohowto.dev/'
 languageCode = 'en-us'
 title = 'Go HowTo'
 theme = "ananke"
+
+enableRobotsTXT = true
+
+[params]
+# Google Analytics 4
+googleAnalyticsID = "G-YTN4HCJENM"
